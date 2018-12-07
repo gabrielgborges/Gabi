@@ -1,0 +1,13 @@
+﻿  Tiro.cpp
+c:\users\guignoatto\desktop\trab grau b\trab na lib\tiro.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'libUnicornio.h': No such file or directory
+  personagem.cpp
+  Menu.cpp
+  main.cpp
+c:\users\guignoatto\desktop\trab grau b\trab na lib\tiro.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'libUnicornio.h': No such file or directory
+  mago.cpp
+c:\users\guignoatto\desktop\trab grau b\trab na lib\tiro.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'libUnicornio.h': No such file or directory
+  ladrao.cpp
+c:\users\guignoatto\desktop\trab grau b\trab na lib\tiro.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'libUnicornio.h': No such file or directory
+  Jogo.cpp
+c:\users\guignoatto\desktop\trab grau b\trab na lib\tiro.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'libUnicornio.h': No such file or directory
+  Gerando Código...
